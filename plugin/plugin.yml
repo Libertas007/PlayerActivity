@@ -3,6 +3,6 @@ name: PlayerActivity
 version: 1.0
 author: XD_CZ
 description: Monitors player acivity and writes to database
-api-version: 1.18
+api-version: 1.19
 website: programu.jeme.cz
 prefix: PlayerActivity
