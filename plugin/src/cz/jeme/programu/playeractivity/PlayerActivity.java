@@ -6,6 +6,7 @@ public class PlayerActivity extends JavaPlugin {
 
 	@Override
 	public void onEnable() {
+		// test
 	}
 
 	@Override
