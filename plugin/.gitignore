@@ -11,6 +11,9 @@ local.properties
 .loadpath
 .recommenders
 
+# Bukkit source code
+bukkit.src/
+
 # External tool builders
 .externalToolBuilders/
 
@@ -34,6 +37,9 @@ local.properties
 
 # sbteclipse plugin
 .target
+
+# bukkit source code
+.bukkit
 
 # Tern plugin
 .tern-project
